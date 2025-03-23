@@ -23,7 +23,7 @@
 
 2) Clone this repo:
 ```
-$ git clone https://github.com/v-espitalier/rust-docs
+$ git clone https://github.com/v-espitalier/functional-programming-examples
 ```
 
 3) Compile and run the example:
@@ -65,7 +65,7 @@ La [programmation fonctionnelle](https://fr.wikipedia.org/wiki/Programmation_fon
 2) Cloner ce dépôt :
 
 ```bash
-$ git clone https://github.com/v-espitalier/rust-docs
+$ git clone https://github.com/v-espitalier/functional-programming-examples
 ```
 
 3) Compiler et exécuter l'exemple :
